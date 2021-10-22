@@ -121,4 +121,4 @@ For additional challenge:
 
 ## Submission
 
-* The homework was submitted via Google Drive, and the solution and files have also been uploaded to my GitHub repo.
+* This homework was submitted via Google Drive, and the solution and files have been uploaded to this GitHub repo.
